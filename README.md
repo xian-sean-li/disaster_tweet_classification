@@ -1,6 +1,6 @@
 # Disaster Tweet Classification
 
-This repo contains code for the Diasaster Tweet Classification Kaggle competition which was used for a coding assignment for a Deep Learning Coursera course.
+This repo contains code for the Disaster Tweet Classification Kaggle competition which was used for a coding assignment for a Deep Learning Coursera course.
 
 ## Problem Description
 
